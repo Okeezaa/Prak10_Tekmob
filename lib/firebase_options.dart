@@ -44,37 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCshtl0BLhg3H0Ot6eTDfZZRanteKJSjGI',
-    appId: '1:1062021337714:web:4b059d064d641f501028eb',
-    messagingSenderId: '1062021337714',
-    projectId: 'prak-10-c3b34',
-    authDomain: 'prak-10-c3b34.firebaseapp.com',
-    storageBucket: 'prak-10-c3b34.appspot.com',
+    apiKey: 'AIzaSyDMbOVPGXDVL8-2Ji7LCYsc2KiuPzGyU3M',
+    appId: '1:560093829390:web:371b6d8b1fb97132be9f5f',
+    messagingSenderId: '560093829390',
+    projectId: 'tekmob---prak10',
+    authDomain: 'tekmob---prak10.firebaseapp.com',
+    storageBucket: 'tekmob---prak10.appspot.com',
+    measurementId: 'G-DVR9CZM266',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAY9YLii-VpdWScR6bYkMTna1uCbJR9zr4',
-    appId: '1:1062021337714:android:f73d3752dfa9117e1028eb',
-    messagingSenderId: '1062021337714',
-    projectId: 'prak-10-c3b34',
-    storageBucket: 'prak-10-c3b34.appspot.com',
+    apiKey: 'AIzaSyDkq7ZbtbeTsgyBKAn2G_Z4TILCzmRD1iE',
+    appId: '1:560093829390:android:fbee5f55472fd442be9f5f',
+    messagingSenderId: '560093829390',
+    projectId: 'tekmob---prak10',
+    storageBucket: 'tekmob---prak10.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCULucGHDejHowHAvQuK1R_axQYpa794c4',
-    appId: '1:1062021337714:ios:e2357a4c47df98861028eb',
-    messagingSenderId: '1062021337714',
-    projectId: 'prak-10-c3b34',
-    storageBucket: 'prak-10-c3b34.appspot.com',
+    apiKey: 'AIzaSyALi8Hy2U0XwZ7INiSQ8vzRK4o7J3OoV9Y',
+    appId: '1:560093829390:ios:52b09e3def95a8a6be9f5f',
+    messagingSenderId: '560093829390',
+    projectId: 'tekmob---prak10',
+    storageBucket: 'tekmob---prak10.appspot.com',
     iosBundleId: 'com.example.gtkFlutter',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCULucGHDejHowHAvQuK1R_axQYpa794c4',
-    appId: '1:1062021337714:ios:e2357a4c47df98861028eb',
-    messagingSenderId: '1062021337714',
-    projectId: 'prak-10-c3b34',
-    storageBucket: 'prak-10-c3b34.appspot.com',
+    apiKey: 'AIzaSyALi8Hy2U0XwZ7INiSQ8vzRK4o7J3OoV9Y',
+    appId: '1:560093829390:ios:52b09e3def95a8a6be9f5f',
+    messagingSenderId: '560093829390',
+    projectId: 'tekmob---prak10',
+    storageBucket: 'tekmob---prak10.appspot.com',
     iosBundleId: 'com.example.gtkFlutter',
   );
 }
